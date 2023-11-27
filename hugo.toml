@@ -1,0 +1,4 @@
+baseURL = 'https://dev-loper99.github.io/'
+languageCode = 'en-us'
+title = 'Dev E. Loper #99'
+theme = 'papermod'
