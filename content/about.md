@@ -1,4 +1,9 @@
-# Dev E. Loper #99
+---
+title: About
+layout: single
+url: /about/
+summary: about
+---
 
 Well, my name is not really Dev E. Loper. The name is a portmanteau of the word *developer*. Hope you already knew that. But please call me **Dev**: ديو, देव, 开发, etc.
 
