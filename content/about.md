@@ -1,11 +1,12 @@
 ---
+menu: main
 title: About
 layout: single
 url: /about/
 summary: about
 ---
 
-Well, my name is not really Dev E. Loper. The name is a portmanteau of the word *developer*. Hope you already knew that. But please call me **Dev**: ديو, देव, 开发, etc.
+Well, my name is **NOT** really Dev E. Loper. This name is a portmanteau of the word *developer*. I hope you already knew that. But please call me **Dev**: ديو, देव, 开发.
 
 ## Why #99?
 Because of the "99 Bottles of Beer" song.
@@ -15,7 +16,7 @@ In order to freely share my thoughts on social media, I have to hide behind the 
 ## Ex-Muslim?
 I was brought up in a conservative Muslim household, but I no longer believe. Unfortunately, excommunication in **Islam** means death or family bycott. Hence: the *pen-name*. Fundamentalist Islam is a dangerous cult and must evolve or face extinction. Practice of Islam is particularly harmful to society. However, I generally stand for free expression and secular governments. Democratic, egalitarian application of security, freedom and welfare makes a good society. My family and friends and all Muslims who still believe, I have nothing against them. It is the **Shari'a** ideology that scares me.
 
-## Software?
+## Developer?
 Other than religious fundamentalism and its effect on society, sometimes I talk about software and information technology. I was blessed with a good education, so I am already fond of learning and always willing to change my mind. I am very easy to convince and my opinions evolve as I learn new things.
 
 ## A/S/L?
